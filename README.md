@@ -1,7 +1,7 @@
 # About Dataset
 This is a real dataset of house prices sold in Seattle, Washing, USA between August and December 2022. The task is to predict the house price in this area based on several features, which are described below.
 
-##Pycaret
+## Pycaret
 We will use pycaret to predict price range
 
 PyCaret is an open-source, low-code machine learning library in Python that automates machine learning workflows. It is an end-to-end machine learning and model management tool that speeds up the experiment cycle exponentially and makes you more productive.
